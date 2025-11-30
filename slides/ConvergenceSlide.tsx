@@ -19,7 +19,7 @@ const ConvergenceSlide: React.FC<SlideProps> = () => {
                         Pelo <strong>Teorema Central do Limite</strong>, como a distribuição Erlang é a soma de <span className="font-serif italic font-bold">k</span> variáveis aleatórias independentes e identicamente distribuídas (exponenciais), ela tende à distribuição <strong>Normal</strong> conforme <span className="font-serif italic font-bold">k</span> aumenta.
                     </p>
                     <p className="text-gray-600 bg-gray-50 p-4 rounded italic border border-gray-100">
-                        "Para valores grandes de k (geralmente k > 30), a distribuição Erlang(k, λ) torna-se indistinguível de uma Gaussiana."
+                        "Para valores grandes de k (geralmente k &gt; 30), a distribuição Erlang(k, λ) torna-se indistinguível de uma Gaussiana."
                     </p>
                 </div>
             </div>

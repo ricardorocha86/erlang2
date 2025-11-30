@@ -1,0 +1,5 @@
+{
+  "name": "Erlang Explorer",
+  "description": "Uma apresentação interativa e calculadora dinâmica para a Distribuição Erlang, baseada em slides de Estatística Aplicada.",
+  "requestFramePermissions": []
+}
